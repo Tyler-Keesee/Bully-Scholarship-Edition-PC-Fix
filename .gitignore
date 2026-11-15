@@ -1,0 +1,25 @@
+# Local installs, recovery records, and private game data
+**/Backups/
+/LastInstall.txt
+/SelfTest-*/
+/UserData/
+/Runtime/
+/Originals/
+/BullyFile*
+/FileTableBully
+/ControllerSettings*
+*.sav
+*.dmp
+
+# Generated build files
+.vs/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.asi
+*.log
+*.zip

@@ -1,0 +1,9 @@
+{
+  "Samples": 1195,
+  "AverageFPS": 59.72,
+  "MedianMs": 16.6677,
+  "P95Ms": 17.1695,
+  "P99Ms": 19.2408,
+  "Over25ms": 7,
+  "Over50ms": 0
+}

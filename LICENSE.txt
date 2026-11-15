@@ -1,0 +1,2 @@
+Copyright (c) 2026 RescuePC contributors.
+Permission is granted, free of charge, to use, copy, modify and distribute the original custom code and artwork in this package, with this notice. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY. This permission covers only original work in this package, not Rockstar game files, game branding or third-party projects. No Rockstar game files or third-party fix binaries are included.

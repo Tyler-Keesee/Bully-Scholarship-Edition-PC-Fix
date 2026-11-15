@@ -1,0 +1,10 @@
+{
+  "asset": "TXD/HUDElems.nft",
+  "target": "Button_F12.tga",
+  "offset": 413088,
+  "length": 4096,
+  "old_payload_sha256": "8a0c1a9748806f7e2fe5d5120895e74546519cef66379ad8faf331a24b95623d",
+  "new_payload_sha256": "b7288c7ed9d420cdd722b31010e3648c595f1ae46eaa259912d8688e95c0c0f4",
+  "original_asset_sha256": "9a851d427149826ee7e58da5eab35eb11275456c5d4bb805ec628b8b0a3d464e",
+  "patched_asset_sha256": "12a7a7b94119c12b6eb5a3ca4b7077f6fcae1952585b4a32972219705bd7cfed"
+}
