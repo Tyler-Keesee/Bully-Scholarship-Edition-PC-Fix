@@ -1,5 +1,28 @@
 # Bully: Scholarship Edition — PC Community Preview
 
+## Windows 11 PowerShell quick start, one command at a time
+
+**Cloning this repository gives you source code, not an installable game mod.** To install the tested preview, use the named ZIP on its GitHub Releases page and follow `docs/INSTALLATION.md` exactly. Do **not** run or modify the game files from a source checkout.
+
+```powershell
+git clone https://github.com/Tyler-Keesee/Bully-Scholarship-Edition-PC-Fix.git
+```
+
+```powershell
+Set-Location .\Bully-Scholarship-Edition-PC-Fix
+```
+
+```powershell
+Get-Content .\docs\BUILDING.md
+```
+
+Compiling requires **Visual Studio 2019 x86 C++ Build Tools, the Windows SDK, and the .NET Framework 4 C# compiler**, plus correctly configured x86 toolchain paths. Read `docs/BUILDING.md` before executing any build scripts. Do not assume `Source/build-and-test.cmd` automatically knows your compiler paths. The archived V2 renderer source does not reproduce the shipped V1 binary; match release checksums and run package verification before installing. No Python venv or npm packages are required.
+
+**Verification:** Successful installation and syntax checks do not prove the entire system works. Run the repository's documented manual tests before relying on it.
+
+---
+
+
 **RescuePC · Preview 0.1.1 · Windows · Steam PC 1.200**
 
 A community tool for configuring keyboard/mouse controls and display settings in Bully: Scholarship Edition, with a Windows setup app, backups, and undo.
